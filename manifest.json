@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "Cease",
+  "description": "Play and pause youtube videos without switching tabs",
+  "version": "0.1",
+
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+
+  "commands": {
+    "toggle-playback": {
+      "suggested_key": {
+        "default": "Ctrl+Period"
+      },
+      "description": "Toggle event for playback"
+    }
+  },
+
+  "permissions": [
+    "tabs",
+    "*://www.youtube.com/"
+  ]
+}
