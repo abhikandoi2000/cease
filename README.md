@@ -6,6 +6,11 @@ This is a fun development. I open up many tabs at once and easily loose track of
 
 Cheers!
 
+##Installation
+
+* Clone the repository
+* Load the unpackaged extension by navigating to `chrome://extensions/` in chrome\chromium.
+
 ## Author
 
 Abhishek Kandoi <abhikandoi2000@gmail.com>
