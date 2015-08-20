@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Cease",
-  "description": "Play and pause youtube videos without switching tabs",
+  "description": "Play and pause music from youtube and rdio without switching tabs",
   "version": "0.1",
 
   "icons": {
@@ -28,6 +28,7 @@
 
   "permissions": [
     "tabs",
-    "*://www.youtube.com/"
+    "*://www.youtube.com/",
+    "*://www.rdio.com/"
   ]
 }
