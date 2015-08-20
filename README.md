@@ -1,6 +1,6 @@
 #Cease
 
-Toggle youtube videos using Ctrl+Period without switching tabs
+Toggle youtube video and Rdio tracks using Ctrl+Period without switching tabs
 
 This is a fun development. I open up many tabs at once and easily loose track of the one which plays the video.
 
