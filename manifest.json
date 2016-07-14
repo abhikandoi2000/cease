@@ -20,9 +20,15 @@
   "commands": {
     "toggle-playback": {
       "suggested_key": {
-        "default": "Ctrl+Period"
+        "default": "Ctrl+Comma"
       },
       "description": "Toggle event for playback"
+    },
+    "play-next": {
+      "suggested_key": {
+        "default": "Ctrl+Period"
+      },
+      "description": "Play the next item"
     }
   },
 
